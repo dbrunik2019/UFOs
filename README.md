@@ -13,3 +13,4 @@ Purpose: learn how data is stored in Javasript ARRAYS. We use javascript to loop
 
 
 
+![180103-ufo-illustration-mn-1015](https://user-images.githubusercontent.com/100965117/185159241-d03464ad-1036-4813-9bae-d1cfaf97fe67.jpg)
